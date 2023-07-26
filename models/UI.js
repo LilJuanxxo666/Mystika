@@ -36,7 +36,7 @@ export class UI {
             <hr>
             <h2>${precio}</h2>
             <img src="${imagen}" class="imagen">
-            <img src="../data/imag/Logo.png" id="logo-principal"/>
+            <img src="/data/imag/Logo.png" id="logo-principal"/>
             <hr>
             <p>${descripcion}</p>
             <button class="boton" id="volver">Volver</button>
